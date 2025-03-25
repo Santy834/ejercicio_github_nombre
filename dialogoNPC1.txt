@@ -3,3 +3,5 @@ Jack: Ey tú! sí, tú persona de aspecto raro, ven aquí
 Jack: Soy Jack "El más grande aventurero de Isla Acaramelada" y ando en busca de personas valientes y con mucho coraje que quisieran forjar su propia historia
 
 Jack: ¿Te gustaría ir conmigo joven aventurero? 
+
+["dialogoNPC-SI"]

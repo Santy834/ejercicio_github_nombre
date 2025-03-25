@@ -4,4 +4,5 @@ Jack: Soy Jack "El más grande aventurero de Isla Acaramelada" y ando en busca d
 
 Jack: ¿Te gustaría ir conmigo joven aventurero? 
 
-["dialogoNPC-SI"]
+["dialogoNPC-SI" , "dialogoNPC-NO"]
+
